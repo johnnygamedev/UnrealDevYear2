@@ -949,3 +949,786 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.20-13.10.27:281][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
 [2026.04.20-13.10.27:281][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
 [2026.04.20-13.10.27:281][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2026.04.20-13.10.30:841][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Drop_Item_From_ContentBrowser...
+[2026.04.20-13.10.30:893][  0]LogAudioDerivedData: Display: Drop_Item_From_ContentBrowser compressed to 7.28% (from 192KB to 14KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.04.20-13.10.30:909][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.Drop_Item_From_ContentBrowser: Duration=1.02 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=14355 bytes, ChunkN=0)
+[2026.04.20-13.10.30:910][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Gizmo_Handle_Clicked...
+[2026.04.20-13.10.30:915][  0]LogAudioDerivedData: Display: Gizmo_Handle_Clicked compressed to 6.69% (from 190KB to 12KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.04.20-13.10.30:915][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Gizmo_Handle_Clicked.Gizmo_Handle_Clicked: Duration=1.01 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=13051 bytes, ChunkN=0)
+[2026.04.20-13.10.30:916][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Object_PickUp...
+[2026.04.20-13.10.30:919][  0]LogAudioDerivedData: Display: Object_PickUp compressed to 8.12% (from 160KB to 13KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.04.20-13.10.30:920][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Object_PickUp.Object_PickUp: Duration=0.85 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=13299 bytes, ChunkN=0)
+[2026.04.20-13.10.30:920][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Object_Snaps_To_Another_Actor...
+[2026.04.20-13.10.30:924][  0]LogAudioDerivedData: Display: Object_Snaps_To_Another_Actor compressed to 6.88% (from 201KB to 13KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.04.20-13.10.30:925][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.Object_Snaps_To_Another_Actor: Duration=1.07 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=14169 bytes, ChunkN=0)
+[2026.04.20-13.10.30:925][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Object_Snaps_To_Grid...
+[2026.04.20-13.10.30:930][  0]LogAudioDerivedData: Display: Object_Snaps_To_Grid compressed to 5.50% (from 215KB to 11KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.04.20-13.10.30:930][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Object_Snaps_To_Grid.Object_Snaps_To_Grid: Duration=1.15 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=12121 bytes, ChunkN=0)
+[2026.04.20-13.10.30:931][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Scaling_Down...
+[2026.04.20-13.10.30:935][  0]LogAudioDerivedData: Display: Scaling_Down compressed to 5.72% (from 177KB to 10KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.04.20-13.10.30:935][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Scaling_Down.Scaling_Down: Duration=0.94 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=10363 bytes, ChunkN=0)
+[2026.04.20-13.10.30:936][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Scaling_Up...
+[2026.04.20-13.10.30:939][  0]LogAudioDerivedData: Display: Scaling_Up compressed to 6.05% (from 162KB to 9KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.04.20-13.10.30:939][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Scaling_Up.Scaling_Up: Duration=0.87 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=10083 bytes, ChunkN=0)
+[2026.04.20-13.10.30:940][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave Selection_Changes...
+[2026.04.20-13.10.30:943][  0]LogAudioDerivedData: Display: Selection_Changes compressed to 3.10% (from 190KB to 5KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.04.20-13.10.30:943][  0]LogAudio: Display: Chunk stats for (SoundWave /Engine/VREditor/Sounds/UI/Selection_Changes.Selection_Changes: Duration=1.01 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=6043 bytes, ChunkN=0)
+[2026.04.20-13.10.31:899][  0]LogConfig: Applying CVar settings from Section [/Script/CQTest.CQTestSettings] File [Engine]
+[2026.04.20-13.10.31:969][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../UnrealDevYear2/NPC_coursework 5.7 - 2/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2026.04.20-13.10.31:970][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../UnrealDevYear2/NPC_coursework 5.7 - 2/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2026.04.20-13.10.31:970][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../UnrealDevYear2/NPC_coursework 5.7 - 2/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2026.04.20-13.10.31:970][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2026.04.20-13.10.31:970][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2026.04.20-13.10.32:009][  0]LogLiveCoding: Display: Starting LiveCoding
+[2026.04.20-13.10.32:009][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2026.04.20-13.10.32:010][  0]LogLiveCoding: Display: First instance in process group "UE_TP_StarterContent_0xbeef6347", spawning console
+[2026.04.20-13.10.32:619][  0]LogSlate: Border
+[2026.04.20-13.10.32:619][  0]LogSlate: BreadcrumbButton
+[2026.04.20-13.10.32:619][  0]LogSlate: Brushes.Title
+[2026.04.20-13.10.32:619][  0]LogSlate: ColorPicker.ColorThemes
+[2026.04.20-13.10.32:619][  0]LogSlate: Default
+[2026.04.20-13.10.32:619][  0]LogSlate: Icons.Save
+[2026.04.20-13.10.32:619][  0]LogSlate: Icons.Toolbar.Settings
+[2026.04.20-13.10.32:619][  0]LogSlate: ListView
+[2026.04.20-13.10.32:619][  0]LogSlate: SoftwareCursor_CardinalCross
+[2026.04.20-13.10.32:619][  0]LogSlate: SoftwareCursor_Grab
+[2026.04.20-13.10.32:619][  0]LogSlate: TableView.DarkRow
+[2026.04.20-13.10.32:619][  0]LogSlate: TableView.Row
+[2026.04.20-13.10.32:619][  0]LogSlate: TreeView
+[2026.04.20-13.10.36:963][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2026.04.20-13.10.36:965][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 2.121 ms
+[2026.04.20-13.10.37:602][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2026.04.20-13.10.37:602][  0]LogInit: XR: MultiViewport is Disabled
+[2026.04.20-13.10.37:602][  0]LogInit: XR: Mobile Multiview is Disabled
+[2026.04.20-13.10.38:003][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2026.04.20-13.10.38:670][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B9CCF7098C734CB58000000000004C00 | Instance: C19E2B9C42EC44399FB9E98546F6A8E9 (JOHNNY-PC-14808).
+[2026.04.20-13.10.39:764][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2026.04.20-13.10.39:921][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2026.04.20-13.10.39:922][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2026.04.20-13.10.39:936][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49249'.
+[2026.04.20-13.10.39:939][  0]LogUdpMessaging: Display: Added local interface '192.168.0.61' to multicast group '230.0.0.1:6666'
+[2026.04.20-13.10.39:939][  0]LogUdpMessaging: Display: Added local interface '127.0.0.1' to multicast group '230.0.0.1:6666'
+[2026.04.20-13.10.39:955][  0]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.04.20-13.10.40:288][  0]LogNNERuntimeORT: No NPU adapter found with attributes (!GRAPHICS && (GENERIC_ML || CORE_COMPUTE)) (Windows 11 Version 24H2 or newer)!
+[2026.04.20-13.10.40:288][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2026.04.20-13.10.40:288][  0]LogNNERuntimeORT: 0: NVIDIA GeForce RTX 3060 Ti (Compute, Graphics)
+[2026.04.20-13.10.40:288][  0]LogNNERuntimeORT: 1: Microsoft Basic Render Driver (Compute, Graphics)
+[2026.04.20-13.10.40:288][  0]LogNNERuntimeORT: No NPU adapter found!
+[2026.04.20-13.10.40:288][  0]LogNNERuntimeORT: MakeRuntimeORTDml:
+[2026.04.20-13.10.40:288][  0]LogNNERuntimeORT:   DirectML:  yes
+[2026.04.20-13.10.40:289][  0]LogNNERuntimeORT:   RHI D3D12: yes
+[2026.04.20-13.10.40:289][  0]LogNNERuntimeORT:   D3D12:     yes
+[2026.04.20-13.10.40:289][  0]LogNNERuntimeORT:   NPU:       no
+[2026.04.20-13.10.40:289][  0]LogNNERuntimeORT: Interface availability:
+[2026.04.20-13.10.40:289][  0]LogNNERuntimeORT:   GPU: yes
+[2026.04.20-13.10.40:289][  0]LogNNERuntimeORT:   RDG: yes
+[2026.04.20-13.10.40:289][  0]LogNNERuntimeORT:   NPU: no
+[2026.04.20-13.10.40:289][  0]LogNNERuntimeORT: No NPU adapter found with attributes (!GRAPHICS && (GENERIC_ML || CORE_COMPUTE)) (Windows 11 Version 24H2 or newer)!
+[2026.04.20-13.10.40:289][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2026.04.20-13.10.40:289][  0]LogNNERuntimeORT: 0: NVIDIA GeForce RTX 3060 Ti (Compute, Graphics)
+[2026.04.20-13.10.40:289][  0]LogNNERuntimeORT: 1: Microsoft Basic Render Driver (Compute, Graphics)
+[2026.04.20-13.10.40:289][  0]LogNNERuntimeORT: No NPU adapter found!
+[2026.04.20-13.10.45:456][  0]LogLiveCoding: Display: Waiting for server
+[2026.04.20-13.10.48:383][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2026.04.20-13.10.50:903][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2026.04.20-13.10.50:905][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2026.04.20-13.10.50:907][  0]LogMetaSound: MetaSound Engine Initialized
+[2026.04.20-13.10.58:414][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.20-13.10.58:414][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.20-13.10.58:575][  0]LogTimingProfiler: Initialize
+[2026.04.20-13.10.58:575][  0]LogTimingProfiler: OnSessionChanged
+[2026.04.20-13.10.58:575][  0]LoadingProfiler: Initialize
+[2026.04.20-13.10.58:575][  0]LoadingProfiler: OnSessionChanged
+[2026.04.20-13.10.58:575][  0]LogNetworkingProfiler: Initialize
+[2026.04.20-13.10.58:575][  0]LogNetworkingProfiler: OnSessionChanged
+[2026.04.20-13.10.58:575][  0]LogMemoryProfiler: Initialize
+[2026.04.20-13.10.58:575][  0]LogMemoryProfiler: OnSessionChanged
+[2026.04.20-13.11.00:182][  0]SourceControl: Revision control is disabled
+[2026.04.20-13.11.00:752][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/./Editor/Slate/Icons/doc_16x.png' error.
+[2026.04.20-13.11.00:752][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/./Editor/Slate/Icons/doc_16x.png] file: [../../../Engine/Content/Slate/./Editor/Slate/Icons/doc_16x.png]
+[2026.04.20-13.11.00:752][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Common/ButtonHoverHint.png' error.
+[2026.04.20-13.11.00:752][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png] file: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png]
+[2026.04.20-13.11.00:982][  0]SourceControl: Revision control is disabled
+[2026.04.20-13.11.01:169][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.04.20-13.11.03:736][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2026.04.20-13.11.05:394][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2026.04.20-13.11.05:892][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.04.20-13.11.05:892][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.04.20-13.11.08:159][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Animation/EaseCurveTool/Resources/Common/ButtonHoverHint.png' error.
+[2026.04.20-13.11.08:159][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Plugins/Animation/EaseCurveTool/Resources/Common/ButtonHoverHint.png] file: [../../../Engine/Plugins/Animation/EaseCurveTool/Resources/Common/ButtonHoverHint.png]
+[2026.04.20-13.11.13:935][  0]LogCollectionManager: Loaded 0 collections in 0.000835 seconds
+[2026.04.20-13.11.13:937][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealDevYear2/NPC_coursework 5.7 - 2/Saved/Collections/' took 0.00s
+[2026.04.20-13.11.13:939][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealDevYear2/NPC_coursework 5.7 - 2/Content/Developers/User/Collections/' took 0.00s
+[2026.04.20-13.11.13:941][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealDevYear2/NPC_coursework 5.7 - 2/Content/Collections/' took 0.00s
+[2026.04.20-13.11.14:569][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2026.04.20-13.11.14:569][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2026.04.20-13.11.14:569][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png]
+[2026.04.20-13.11.14:569][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png]
+[2026.04.20-13.11.14:603][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/./Editor/Slate/Icons/doc_16x.png' error.
+[2026.04.20-13.11.14:603][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/./Editor/Slate/Icons/doc_16x.png] file: [../../../Engine/Content/Slate/./Editor/Slate/Icons/doc_16x.png]
+[2026.04.20-13.11.14:603][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Common/ButtonHoverHint.png' error.
+[2026.04.20-13.11.14:603][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png] file: [../../../Engine/Content/Slate/Common/ButtonHoverHint.png]
+[2026.04.20-13.11.14:604][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Animation/EaseCurveTool/Resources/Common/ButtonHoverHint.png' error.
+[2026.04.20-13.11.14:604][  0]LogSlate: Could not load file for Slate resource: [../../../Engine/Plugins/Animation/EaseCurveTool/Resources/Common/ButtonHoverHint.png] file: [../../../Engine/Plugins/Animation/EaseCurveTool/Resources/Common/ButtonHoverHint.png]
+[2026.04.20-13.11.14:631][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.18.1.2-47370208 booting at 2026-04-20T13:11:14.631Z using C
+[2026.04.20-13.11.14:631][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Configuration win64-dynamic-x86_64
+[2026.04.20-13.11.14:631][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.22621.5624.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=TP_StarterContent, ProductVersion=++UE5+Release-5.7-CL-50162420, IsServer=false, Flags=DisableOverlay]
+[2026.04.20-13.11.14:632][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.04.20-13.11.14:632][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2026.04.20-13.11.14:638][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2026.04.20-13.11.14:638][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2026.04.20-13.11.14:638][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2026.04.20-13.11.14:638][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000063
+[2026.04.20-13.11.14:638][  0]LogFab: Plugin initialized. VersionName: 0.0.10 (Version: 10) - Engine Version 5.7.3-50162420+++UE5+Release-5.7
+[2026.04.20-13.11.14:866][  0]LogWindows: Failed to load 'Wintab32.dll' (GetLastError=126)
+[2026.04.20-13.11.14:866][  0]LogWindows: File 'Wintab32.dll' does not exist
+[2026.04.20-13.11.14:866][  0]LogStylusInput: Wintab driver is not available; Wintab interface will be not be initialized.
+[2026.04.20-13.11.15:123][  0]LogUObjectArray: 43731 objects as part of root set at end of initial load.
+[2026.04.20-13.11.15:123][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.04.20-13.11.15:451][  0]LogEngine: Initializing Engine...
+[2026.04.20-13.11.15:692][  0]LogTedsSettings: UTedsSettingsEditorSubsystem::Initialize
+[2026.04.20-13.11.16:535][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2026.04.20-13.11.16:693][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+[2026.04.20-13.11.16:737][  0]LogTexture: Display: Waiting for textures to be ready 18/37 (/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq) ...
+[2026.04.20-13.11.17:002][  0]LogTexture: Display: Waiting for textures to be ready 23/37 (/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT) ...
+[2026.04.20-13.11.17:448][  0]LogTexture: Display: Waiting for textures to be ready 34/37 (/Engine/EngineMaterials/LTC/GGX_LTCAmp) ...
+[2026.04.20-13.11.17:464][  0]LogTexture: Display: Waiting for textures to be ready 36/37 (/Engine/EngineMaterials/EnergyConservation/GGX_TransmissionEnergyArray) ...
+[2026.04.20-13.11.17:529][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.04.20-13.11.18:269][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2026.04.20-13.11.18:269][  0]LogInit: Texture streaming: Enabled
+[2026.04.20-13.11.18:486][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::StartSession ( APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.7.3-50162420+++UE5+Release-5.7 )
+[2026.04.20-13.11.18:493][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.04.20-13.11.18:579][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.04.20-13.11.18:580][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.04.20-13.11.18:580][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.04.20-13.11.18:580][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.04.20-13.11.18:580][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-13.11.18:580][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-13.11.18:580][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-13.11.18:580][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-13.11.18:580][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-13.11.18:580][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-13.11.18:580][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-13.11.18:580][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-13.11.18:580][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-13.11.18:580][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-13.11.18:581][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-13.11.18:643][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-13.11.18:669][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (HyperX Cloud III)'
+[2026.04.20-13.11.18:671][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (HyperX Cloud III)'
+[2026.04.20-13.11.18:674][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (HyperX Cloud III)'
+[2026.04.20-13.11.18:676][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (HyperX Cloud III)'
+[2026.04.20-13.11.18:678][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (HyperX Cloud III)'
+[2026.04.20-13.11.18:680][  0]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (HyperX Cloud III)'
+[2026.04.20-13.11.18:696][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.04.20-13.11.18:696][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-13.11.18:698][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-13.11.18:698][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-13.11.18:699][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.04.20-13.11.18:699][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.20-13.11.18:701][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.20-13.11.18:701][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2026.04.20-13.11.18:701][  0]LogInit: FAudioDevice initialized with ID 1.
+[2026.04.20-13.11.18:724][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.04.20-13.11.18:724][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2026.04.20-13.11.18:757][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2026.04.20-13.11.18:864][  0]LogInit: Undo buffer set to 256 MB
+[2026.04.20-13.11.18:864][  0]LogInit: Transaction tracking system initialized
+[2026.04.20-13.11.19:223][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../UnrealDevYear2/NPC_coursework 5.7 - 2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-13.11.19:531][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/VREditor/TransformGizmo/SM_Sequencer_Node) ...
+[2026.04.20-13.11.20:681][  0]LogMeshUtilities: Finished distance field build in 1.1s - 21x7x14 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, MatineeCam_SM
+[2026.04.20-13.11.20:814][  0]LogMeshUtilities: Finished distance field build in 1.2s - 7x49x49 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, EditorPlane
+[2026.04.20-13.11.20:851][  0]LocalizationService: Localization service is disabled
+[2026.04.20-13.11.21:120][  0]LogMeshUtilities: Finished distance field build in 1.5s - 35x35x49 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 98% occupied, 0 triangles, EditorCylinder
+[2026.04.20-13.11.21:339][  0]LogMeshUtilities: Finished distance field build in 1.7s - 49x49x49 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 92% occupied, 0 triangles, EditorCube
+[2026.04.20-13.11.21:541][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.04.20-13.11.21:623][  0]LogMeshUtilities: Finished distance field build in 2.0s - 63x63x63 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 84% occupied, 0 triangles, Sphere
+[2026.04.20-13.11.21:668][  0]LogMeshUtilities: Finished distance field build in 2.0s - 63x63x63 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 84% occupied, 0 triangles, EditorSphere
+[2026.04.20-13.11.21:708][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.13.dll
+[2026.04.20-13.11.21:904][  0]LogContentValidation: Adding native validator /Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-13.11.21:904][  0]LogContentValidation: Adding native validator /Script/DataValidation.EditorValidator_Localization
+[2026.04.20-13.11.21:904][  0]LogContentValidation: Adding native validator /Script/DataValidation.EditorValidator_Material
+[2026.04.20-13.11.21:904][  0]LogContentValidation: Adding native validator /Script/DataValidation.PackageFileValidator
+[2026.04.20-13.11.21:904][  0]LogContentValidation: Adding native validator /Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-13.11.21:904][  0]LogContentValidation: Adding native validator /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-13.11.21:913][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealDevYear2/NPC_coursework 5.7 - 2/Content/' took 0.01s
+[2026.04.20-13.11.22:881][  0]LogNNEDenoiser: Ray Tracing is not enabled, therefore NNEDenoiser is not registered!
+[2026.04.20-13.11.23:060][  0]LogMeshUtilities: Finished distance field build in 3.4s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, EditorSkySphere
+[2026.04.20-13.11.23:562][  0]LogPython: Python enabled via CVar 'Engine.Python.IsEnabledByDefault'
+[2026.04.20-13.11.23:563][  0]LogPython: Using Python 3.11.8
+[2026.04.20-13.11.24:525][  0]LogPython: Display: No pip-enabled plugins with python dependencies found, skipping
+[2026.04.20-13.11.26:400][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2026.04.20-13.11.28:688][  0]LogEditorDataStorage: Initializing
+[2026.04.20-13.11.28:724][  0]LogEditorDataStorage: Initialized
+[2026.04.20-13.11.28:848][  0]LogCore: Display: InsightsEditor module auto-connecting to local trace server...
+[2026.04.20-13.11.29:081][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.04.20-13.11.29:087][  0]SourceControl: Revision control is disabled
+[2026.04.20-13.11.29:088][  0]LogUnrealEdMisc: Loading editor; pre map load, took 343.400
+[2026.04.20-13.11.33:414][  0]LogFactory: Error: Can't find file 'D:/UE_5.7/FeaturePacks/StarterContent.upack' for import
+[2026.04.20-13.11.34:056][  0]LogSlate: Took 0.012526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.04.20-13.11.34:357][  0]LogSlate: Window 'Message' being destroyed
+[2026.04.20-13.11.34:387][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.04.20-13.11.34:390][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.04.20-13.11.34:406][  0]Message dialog closed, result: Ok, title: Message, text: Failed to import 'D:/UE_5.7/FeaturePacks/StarterContent.upack'. Failed to create asset '/Game/StarterContent'.
+Please see Output Log for details.
+[2026.04.20-13.11.34:406][  0]LogAssetTools: Warning: Failed to import 'D:/UE_5.7/FeaturePacks/StarterContent.upack'. Failed to create asset '/Game/StarterContent'.
+Please see Output Log for details.
+[2026.04.20-13.11.34:432][  0]LogFeaturePack: Warning: No objects imported installing pack StarterContent.upack
+[2026.04.20-13.11.34:432][  0]LogFeaturePack: Inserted 0 feature packs
+[2026.04.20-13.11.34:434][  0]Cmd: MAP LOAD FILE="../../../../UnrealDevYear2/NPC_coursework 5.7 - 2/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.20-13.11.34:437][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.11.34:438][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.11.34:476][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.20-13.11.34:478][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.04.20-13.11.38:666][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.T_Quinn_01ID_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.38:749][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.T_Quinn_01_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.38:779][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.T_Quinn_01_ASAOMASK_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.38:840][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.T_Quinn_01ID_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.38:843][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.T_Quinn_01ID_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.38:864][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.T_Quinn_01ID_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.38:874][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.T_Quinn_01ID_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.39:201][  0]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2026.04.20-13.11.41:053][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.T_Quinn_02ID_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.41:350][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.T_Quinn_02ID_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.41:715][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.T_Quinn_02_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.42:011][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.T_Quinn_02ID_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.42:106][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.T_Quinn_02_ASAOMASK_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.42:265][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim (Required Memory Estimate: 7.31 MB)
+[2026.04.20-13.11.42:324][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.T_Quinn_02ID_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.42:499][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.T_Quinn_02ID_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.42:841][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.T_Manny_01_ASAOPMASK_MSK (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.42:853][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim (Required Memory Estimate: 7.31 MB)
+[2026.04.20-13.11.42:857][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim (Required Memory Estimate: 6.41 MB)
+[2026.04.20-13.11.42:858][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim, at AnimationSequence/fa17fa3606b39689362c15347194700fe3ca22c1
+[2026.04.20-13.11.42:866][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2026.04.20-13.11.42:869][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.20-13.11.42:910][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim, at AnimationSequence/315bcfc7ffac517f7fb4003bdc3c3d8ba880b518
+[2026.04.20-13.11.42:913][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim (Required Memory Estimate: 6.41 MB)
+[2026.04.20-13.11.42:919][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim (Required Memory Estimate: 4.15 MB)
+[2026.04.20-13.11.42:937][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim, at AnimationSequence/fdeebd72214bfb71426af0ef737a33f4f3915a87
+[2026.04.20-13.11.42:961][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim (Required Memory Estimate: 4.15 MB)
+[2026.04.20-13.11.42:961][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim (Required Memory Estimate: 1.90 MB)
+[2026.04.20-13.11.42:983][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim, at AnimationSequence/2eb0407f074bea629d9522608e5612ba213dc650
+[2026.04.20-13.11.42:983][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim (Required Memory Estimate: 1.90 MB)
+[2026.04.20-13.11.42:985][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim, at AnimationSequence/6910f050b85fc3523a9a24a7b37b22fd4bc5fc96
+[2026.04.20-13.11.42:995][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim, at AnimationSequence/f69d7f7fbdb11de8fd954f4921c247a646c411ed
+[2026.04.20-13.11.43:001][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim (Required Memory Estimate: 1.45 MB)
+[2026.04.20-13.11.43:002][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim (Required Memory Estimate: 1.45 MB)
+[2026.04.20-13.11.43:016][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim, at AnimationSequence/17c159f8de1d586e506c5848c8e7a2a69485bfde
+[2026.04.20-13.11.43:019][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim (Required Memory Estimate: 2.35 MB)
+[2026.04.20-13.11.43:019][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim, at AnimationSequence/c2ad1498adddf1c38d4b1a41a1e5b09ca0b328f0
+[2026.04.20-13.11.43:021][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim (Required Memory Estimate: 2.35 MB)
+[2026.04.20-13.11.43:021][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim (Required Memory Estimate: 2.35 MB)
+[2026.04.20-13.11.43:029][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim, at AnimationSequence/40e5b1ff637ab52bc595c98f0e477a9c9b4527dd
+[2026.04.20-13.11.43:029][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim, at AnimationSequence/bf6fc29054700d162b5163133666166a8d06ddd7
+[2026.04.20-13.11.43:046][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim (Required Memory Estimate: 2.35 MB)
+[2026.04.20-13.11.43:046][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd (Required Memory Estimate: 22.26 MB)
+[2026.04.20-13.11.43:046][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim, at AnimationSequence/5eaf7d6a8a66f31352524d583620bb2d7e33f745
+[2026.04.20-13.11.43:047][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd (Required Memory Estimate: 15.57 MB)
+[2026.04.20-13.11.43:066][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim, at AnimationSequence/032ba1bf68a5121ee57400228b3a2fd80555cc58
+[2026.04.20-13.11.43:066][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim, at AnimationSequence/0d05d9b30d9dcda3f5861246e5d605e9a49bf5cf
+[2026.04.20-13.11.43:071][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim, at AnimationSequence/d89bd23dd13a1400767c0244505a361ba08648b2
+[2026.04.20-13.11.43:229][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd (Required Memory Estimate: 25.91 MB)
+[2026.04.20-13.11.43:229][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace (Required Memory Estimate: 1.53 MB)
+[2026.04.20-13.11.43:229][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd (Required Memory Estimate: 27.35 MB)
+[2026.04.20-13.11.43:245][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd, at AnimationSequence/a9b81d71e64b9d39a1ae27bb57157d238a99da12
+[2026.04.20-13.11.43:255][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace, at AnimationSequence/2e29ea0293b3c5286ddf70ca84bd79868878fda7
+[2026.04.20-13.11.43:325][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd, at AnimationSequence/f7e2c31583d977999ed51c9fcfc7b2632483281f
+[2026.04.20-13.11.43:330][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land (Required Memory Estimate: 13.18 MB)
+[2026.04.20-13.11.43:375][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump (Required Memory Estimate: 13.01 MB)
+[2026.04.20-13.11.43:475][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle (Required Memory Estimate: 61.05 MB)
+[2026.04.20-13.11.43:478][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop (Required Memory Estimate: 43.60 MB)
+[2026.04.20-13.11.43:489][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd, at AnimationSequence/b024a9e597b088ba0d1d3d034ad7af521b4c5d5f
+[2026.04.20-13.11.43:491][  0]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle (Required Memory Estimate: 62.71 MB)
+[2026.04.20-13.11.43:553][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd, at AnimationSequence/0510373540f68a5c674ab399507fc7d9ebef4166
+[2026.04.20-13.11.43:584][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump, at AnimationSequence/53afdf8ca7dbfed62500d897a366ff09da45c7c9
+[2026.04.20-13.11.43:743][  0]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.20-13.11.43:748][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-13.11.43:804][  0]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-13.11.43:928][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop, at AnimationSequence/00403b37996e4b17006091166d17b6763e27909a
+[2026.04.20-13.11.44:037][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land, at AnimationSequence/c0ad76fffdd917fb6029a9079b484c5d36ce6ab9
+[2026.04.20-13.11.44:209][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle, at AnimationSequence/04ce1dfa073d5e2032c08171992525366143854d
+[2026.04.20-13.11.44:268][  0]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle, at AnimationSequence/91b7e9f166d0fc9be1e11813a9ae29e79ce36e63
+[2026.04.20-13.11.44:500][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.T_Manny_01_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.44:821][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.T_Manny_01_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.45:106][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.45:209][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.T_Manny_01_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.45:257][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.T_Manny_01_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.45:501][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_N.T_Manny_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.45:954][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.T_Manny_02_ASAOPMASK_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.46:263][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.T_Manny_02_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.46:628][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.T_Manny_02_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.46:869][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_D.T_Manny_02_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.47:045][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.T_Manny_02_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.47:048][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.T_UE_Logo_M (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.999993 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.47:067][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.T_Manny_02_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.47:114][  0]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_N.T_Manny_02_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.11.49:347][  0]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2026.04.20-13.11.49:347][  0]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2026.04.20-13.11.49:762][  0]LogStaticMesh: Display: Building static mesh SM_ChamferCube (Required Memory Estimate: 0.297096 MB)...
+[2026.04.20-13.11.50:095][  0]LogStaticMesh: Display: Building static mesh SM_QuarterCylinder (Required Memory Estimate: 0.061604 MB)...
+[2026.04.20-13.11.50:095][  0]LogStaticMesh: Display: Building static mesh SM_Cube (Required Memory Estimate: 0.026302 MB)...
+[2026.04.20-13.11.50:095][  0]LogStaticMesh: Display: Building static mesh SM_Ramp (Required Memory Estimate: 0.020414 MB)...
+[2026.04.20-13.11.50:154][  0]LogStaticMesh: Built static mesh [0.06s] /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2026.04.20-13.11.50:154][  0]LogStaticMesh: Built static mesh [0.06s] /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2026.04.20-13.11.50:154][  0]LogStaticMesh: Built static mesh [0.40s] /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2026.04.20-13.11.50:154][  0]LogStaticMesh: Built static mesh [0.06s] /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder
+[2026.04.20-13.11.50:589][  0]LogWorldPartition: Display: WorldPartition initialize took 6.84 sec
+[2026.04.20-13.11.52:163][  0]LogSkinnedAsset: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2026.04.20-13.11.53:418][  0]LogSkeletalMesh: Built Skeletal Mesh [14.26s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2026.04.20-13.11.56:683][  0]LogEditorServer: Finished looking for orphan Actors (0.017 secs)
+[2026.04.20-13.11.57:013][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.04.20-13.11.57:065][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.20-13.11.57:134][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.049ms to complete.
+[2026.04.20-13.11.57:602][  0]LogUnrealEdMisc: Total Editor Startup Time, took 371.914
+[2026.04.20-13.11.58:588][  0]LogWebBrowser: Loaded CEF3 version 128.4.13.3057 from D:/UE_5.7/Engine/Binaries/ThirdParty/CEF3/Win64/128.4.13+ge76af7e+chromium-128.0.6613.138
+[2026.04.20-13.11.58:673][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.04.20-13.12.22:389][  0]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.7
+[2026.04.20-13.12.22:389][  0]LogDesktopPlatform: Looking for directories to scan from : C:/Users/User/AppData/Local/UnrealEngine/5.7/Saved/Config/WindowsEditor
+[2026.04.20-13.12.22:389][  0]LogDesktopPlatform: Searching for previously created project directories...
+[2026.04.20-13.12.22:389][  0]LogDesktopPlatform: Found project "(ProjectName="D:/UnrealDevYear2/UnrealDevY2 5.7/UnrealDevY2.uproject",LastOpenTime=2026.04.19-12.10.49)" in recently opened files
+[2026.04.20-13.12.22:389][  0]LogDesktopPlatform: Found project "(ProjectName="D:/UnrealDevYear2/NPC_coursework 5.7/TP_StarterContent.uproject",LastOpenTime=2026.04.19-12.23.01)" in recently opened files
+[2026.04.20-13.12.22:389][  0]LogDesktopPlatform: Found project "(ProjectName="D:/UnrealDevYear2/NPC_coursework/TP_StarterContent.uproject",LastOpenTime=2026.04.19-12.38.58)" in recently opened files
+[2026.04.20-13.12.22:389][  0]LogDesktopPlatform: Found project "(ProjectName="D:/UnrealDevYear2/NPC_coursework 5.7 - 2/TP_StarterContent.uproject",LastOpenTime=2026.04.20-13.11.18)" in recently opened files
+[2026.04.20-13.12.22:389][  0]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2026.04.20-13.12.22:445][  0]LogProjectBrowser: Looking for projects...
+[2026.04.20-13.12.22:445][  0]LogProjectBrowser: Found Engine Installation "5.7"(D:/UE_5.7)
+[2026.04.20-13.12.22:445][  0]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.7
+[2026.04.20-13.12.22:445][  0]LogDesktopPlatform: Looking for directories to scan from : C:/Users/User/AppData/Local/UnrealEngine/5.7/Saved/Config/WindowsEditor
+[2026.04.20-13.12.22:445][  0]LogDesktopPlatform: Searching for previously created project directories...
+[2026.04.20-13.12.22:445][  0]LogDesktopPlatform: Found project "(ProjectName="D:/UnrealDevYear2/UnrealDevY2 5.7/UnrealDevY2.uproject",LastOpenTime=2026.04.19-12.10.49)" in recently opened files
+[2026.04.20-13.12.22:445][  0]LogDesktopPlatform: Found project "(ProjectName="D:/UnrealDevYear2/NPC_coursework 5.7/TP_StarterContent.uproject",LastOpenTime=2026.04.19-12.23.01)" in recently opened files
+[2026.04.20-13.12.22:445][  0]LogDesktopPlatform: Found project "(ProjectName="D:/UnrealDevYear2/NPC_coursework/TP_StarterContent.uproject",LastOpenTime=2026.04.19-12.38.58)" in recently opened files
+[2026.04.20-13.12.22:445][  0]LogDesktopPlatform: Found project "(ProjectName="D:/UnrealDevYear2/NPC_coursework 5.7 - 2/TP_StarterContent.uproject",LastOpenTime=2026.04.20-13.11.18)" in recently opened files
+[2026.04.20-13.12.22:446][  0]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2026.04.20-13.12.22:446][  0]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2026.04.20-13.12.22:635][  0]LogPlacementMode: Display: The Asset Registry is not yet fully loaded so some placeable classes might be missing.
+[2026.04.20-13.12.23:737][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-13.12.23:880][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-13.12.23:940][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-13.12.24:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-13.12.25:610][  0]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.04.20-13.12.26:050][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.20-13.12.26:105][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.7/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2026.04.20-13.12.26:108][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.20-13.12.26:114][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.7/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2026.04.20-13.12.26:114][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.20-13.12.26:133][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.7/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2026.04.20-13.12.26:145][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.20-13.12.26:154][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.7/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2026.04.20-13.12.26:155][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.20-13.12.26:162][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.7/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2026.04.20-13.12.26:163][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.20-13.12.26:170][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.7/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2026.04.20-13.12.26:171][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.20-13.12.26:176][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.7/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2026.04.20-13.12.26:176][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.20-13.12.26:187][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.7/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2026.04.20-13.12.26:188][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.20-13.12.26:194][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.7/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2026.04.20-13.12.30:209][  0]LogToolMenus: Warning: Menu section not found: 'Compile' for insert: 'EditorPerf'
+[2026.04.20-13.12.30:596][  0]LogSlate: Took 0.045015 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.04.20-13.12.30:627][  0]LogSlate: Took 0.015348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.04.20-13.12.37:434][  0]LogPSOHitching: Encountered 50 PSO creation hitches so far (8 graphics, 42 compute). 0 of them were precached.
+[2026.04.20-13.12.37:822][  0]LogPSOHitching: Encountered 100 PSO creation hitches so far (23 graphics, 77 compute). 0 of them were precached.
+[2026.04.20-13.12.38:269][  0]LogStall: Startup...
+[2026.04.20-13.12.38:271][  0]LogStall: Startup complete.
+[2026.04.20-13.12.38:504][  0]LogLoad: (Engine Initialization) Total time: 412.82 seconds
+[2026.04.20-13.12.39:869][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2026.04.20-13.12.39:870][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2026.04.20-13.12.40:552][  0]LogZenServiceInstance: Display: Launching zen utility 'D:/UE_5.7/Engine/Binaries/Win64/zen.exe service status'.
+[2026.04.20-13.12.41:783][  0]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, SM_SkySphere
+[2026.04.20-13.12.42:753][  0]LogZenServiceInstance: Display: Launching zen utility 'D:/UE_5.7/Engine/Binaries/Win64/zen.exe service status'.
+[2026.04.20-13.12.43:310][  0]LogAutomationController: Ignoring very large delta of 16932445.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.20-13.12.43:310][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.12.43:323][  0]LogPython: Display: Running start-up script D:/UE_5.7/Engine/Plugins/Animation/IKRig/Content/Python/init_unreal.py... started...
+[2026.04.20-13.12.52:829][  0]LogPython: Display: Running start-up script D:/UE_5.7/Engine/Plugins/Animation/IKRig/Content/Python/init_unreal.py... took 9.50 sec
+[2026.04.20-13.12.52:867][  0]LogPython: Display: Running start-up script D:/UE_5.7/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2026.04.20-13.12.53:175][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2026.04.20-13.12.53:217][  0]LogPython: Display: Running start-up script D:/UE_5.7/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 351.244 ms (total: 9.85 sec)
+[2026.04.20-13.12.53:533][  1]LogAssetRegistry: AssetRegistryGather time 78.9415s: AssetDataDiscovery 6.9782s, AssetDataGather 71.8031s, StoreResults 0.1603s. Wall time 245.0010s.
+	NumCachedDirectories 0. NumUncachedDirectories 1630. NumCachedFiles 0. NumUncachedFiles 8110.
+	BackgroundTickInterruptions 0.
+[2026.04.20-13.12.53:577][  1]LogAssetRegistry: Display: Starting OnFilesLoaded.Broadcast
+[2026.04.20-13.12.53:608][  1]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
+[2026.04.20-13.12.53:618][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2026.04.20-13.12.53:618][  1]LogAssetRegistry: Display: Completed OnFilesLoaded.Broadcast: 0.193s
+[2026.04.20-13.12.53:676][  1]LogSourceControl: Uncontrolled asset discovery started...
+[2026.04.20-13.12.54:398][  1]LogAssetRegistry: Display: Asset registry cache written as 70.3 MiB to ../../../../UnrealDevYear2/NPC_coursework 5.7 - 2/Intermediate/CachedAssetRegistry_*.bin
+[2026.04.20-13.12.54:443][  1]LogAutomationController: Ignoring very large delta of 11.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.20-13.12.56:371][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 99.806396
+[2026.04.20-13.12.56:372][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2026.04.20-13.12.56:374][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 101.732620
+[2026.04.20-13.12.57:771][  6]LogPSOHitching: Encountered 150 PSO creation hitches so far (48 graphics, 102 compute). 0 of them were precached.
+[2026.04.20-13.12.57:839][  6]LogSourceControl: Uncontrolled asset discovery finished in 4.162745 seconds (Found 8085 uncontrolled assets)
+[2026.04.20-13.12.58:617][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.04.20-13.12.59:284][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 104.312004
+[2026.04.20-13.12.59:286][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1879824717
+[2026.04.20-13.12.59:286][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 104.312004, Update Interval: 359.165009
+[2026.04.20-13.13.17:306][ 57]LogAutomationController: Ignoring very large delta of 2.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.20-13.13.21:056][ 59]LogSlate: Took 0.032645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.04.20-13.13.22:230][ 59]LogAutomationController: Ignoring very large delta of 3.45 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.20-13.13.22:801][ 60]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.04.20-13.13.22:801][ 60]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.04.20-13.13.22:901][ 60]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.04.20-13.13.22:901][ 60]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.04.20-13.13.23:856][ 64]LogPSOHitching: Encountered 200 PSO creation hitches so far (74 graphics, 126 compute). 0 of them were precached.
+[2026.04.20-13.13.24:875][ 91]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-13.13.24:955][ 91]LogContentBundle: [ThirdPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-13.13.24:955][ 91]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.20-13.13.24:967][ 91]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 12.468 ms
+[2026.04.20-13.13.25:085][ 91]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.04.20-13.13.25:155][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-13.13.25:363][ 91]LogPlayLevel: Display: Creating online subsystem for client :Context_3
+[2026.04.20-13.13.25:366][ 91]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2026.04.20-13.13.25:467][ 92]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.20-13.13.25:570][ 92]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.20-13.13.25:571][ 92]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.132 ms
+[2026.04.20-13.13.25:583][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111736s)
+[2026.04.20-13.13.25:583][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.116192s)
+[2026.04.20-13.13.25:744][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.20-13.13.25:832][ 92]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.20-13.13.25:843][ 92]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-13.13.25:843][ 92]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-13.13.25:843][ 92]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-13.13.25:843][ 92]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-13.13.25:905][ 92]LogWorldPartition: Display: WorldPartition initialize took 60.947 ms (total: 6.90 sec)
+[2026.04.20-13.13.25:905][ 92]LogPlayLevel: PIE: World Init took: (0.071959s)
+[2026.04.20-13.13.25:955][ 92]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.04.20-13.13.25:955][ 92]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-13.13.25:955][ 92]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-13.13.25:955][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-13.13.25:955][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-13.13.25:955][ 92]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-13.13.25:955][ 92]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-13.13.25:955][ 92]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-13.13.25:955][ 92]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-13.13.25:955][ 92]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-13.13.25:955][ 92]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-13.13.25:955][ 92]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-13.13.25:958][ 92]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-13.13.25:967][ 92]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Headphones (HyperX Cloud III)'
+[2026.04.20-13.13.25:969][ 92]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Microphone (HyperX Cloud III)'
+[2026.04.20-13.13.25:971][ 92]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Headphones (HyperX Cloud III)'
+[2026.04.20-13.13.25:973][ 92]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Microphone (HyperX Cloud III)'
+[2026.04.20-13.13.25:974][ 92]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Headphones (HyperX Cloud III)'
+[2026.04.20-13.13.25:976][ 92]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Microphone (HyperX Cloud III)'
+[2026.04.20-13.13.25:986][ 92]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.04.20-13.13.25:986][ 92]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-13.13.25:986][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-13.13.25:986][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-13.13.25:987][ 92]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.04.20-13.13.25:987][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.04.20-13.13.25:990][ 92]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.04.20-13.13.25:990][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.04.20-13.13.25:990][ 92]LogInit: FAudioDevice initialized with ID 2.
+[2026.04.20-13.13.25:990][ 92]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2026.04.20-13.13.25:990][ 92]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.20-13.13.26:085][ 92]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.20-13.13.26:095][ 92]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.04.20-14.13.26
+[2026.04.20-13.13.26:338][ 92]LogWorld: Bringing up level for play took: 0.250223
+[2026.04.20-13.13.26:898][ 92]PIE: Server logged in
+[2026.04.20-13.13.26:901][ 92]PIE: Play in editor total start time 2.004 seconds.
+[2026.04.20-13.13.28:379][107]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_D.T_Manny_02_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.28:469][108]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.04.20-13.13.28:569][108]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.04.20-13.13.28:769][108]LogD3D12RHI: Waited for PSO creation for 400.000000ms
+[2026.04.20-13.13.29:169][108]LogD3D12RHI: Waited for PSO creation for 800.000000ms
+[2026.04.20-13.13.29:404][108]LogD3D12RHI: Error: Failed to create pipeline state with combined hash 55DD47DB4FA1718C, error 8007000e.
+[2026.04.20-13.13.29:404][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.T_Manny_02_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.29:969][108]LogD3D12RHI: Waited for PSO creation for 1600.000000ms
+[2026.04.20-13.13.30:671][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.T_Manny_02_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.30:671][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.T_Manny_01_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.30:703][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_N.T_Manny_02_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.30:769][108]LogD3D12RHI: Warning: Failed to create graphics PSO with combined hash 0x55DD47DB4FA1718C:
+AlphaToCoverageEnable = 0
+IndependentBlendEnable = 1
+RenderTarget[0] = { 0, 0, 0x2, 0x1, 0x1, 0x2, 0x1, 0x1, 0x0, 0xF }
+SampleMask = 0xFFFFFFFF
+FillMode = 3
+CullMode = 1
+FrontCounterClockwise = 1
+DepthBias = 0
+DepthBiasClamp = 0.000000
+SlopeScaledDepthBias = 0.000000
+DepthClipEnable = 1
+MultisampleEnable = 1
+AntialiasedLineEnable = 0
+ForcedSampleCount = 0
+ConservativeRaster = 0
+DepthEnable = 0
+DepthWriteMask = 0
+DepthFunc = 8
+StencilEnable = 0
+StencilReadMask = 0xFF
+StencilWriteMask = 0xFF
+FrontFace = { 1, 1, 1, 8 }
+BackFace  = { 1, 1, 1, 8 }
+InputLayout.NumElements = 2
+InputLayout[0] = { "ATTRIBUTE", 0, 0x2, 0, 0, 0x0, 0 }
+InputLayout[1] = { "ATTRIBUTE", 1, 0x10, 0, 16, 0x0, 0 }
+IBStripCutValue = 0x0
+PrimitiveTopologyType = 0x3
+NumRenderTargets = 1
+RTVFormats[0] = 0x1A
+DSVFormat = 0x0
+SampleDesc = { 1, 0 }
+NodeMask = 0x1
+Flags = 0x0
+
+[2026.04.20-13.13.30:770][108]LogRHI: Error: Failed to create graphics pipeline, hashes: Vertex: 670ECEECD946F0E0013579458A3B7CD5B0BBEF42, Pixel: 7B8EA664D8AA893BDA14BF15F429F2943FE560A4, Pipeline: 1C8F551C78D3CF1A45A56DA21FAD151084AAF8FA.
+[2026.04.20-13.13.30:770][108]LogRHI: Error: Vertex: <unknown>
+[2026.04.20-13.13.30:770][108]LogRHI: Error: Pixel: <unknown>
+[2026.04.20-13.13.30:770][108]LogRHI: Error: Render Targets: (8)
+[2026.04.20-13.13.30:770][108]LogRHI: Error: 0x9
+[2026.04.20-13.13.30:770][108]LogRHI: Error: 0x0
+[2026.04.20-13.13.30:770][108]LogRHI: Error: 0x0
+[2026.04.20-13.13.30:770][108]LogRHI: Error: 0x0
+[2026.04.20-13.13.30:770][108]LogRHI: Error: 0x0
+[2026.04.20-13.13.30:770][108]LogRHI: Error: 0x0
+[2026.04.20-13.13.30:770][108]LogRHI: Error: 0x0
+[2026.04.20-13.13.30:770][108]LogRHI: Error: 0x0
+[2026.04.20-13.13.30:770][108]LogRHI: Error: Depth Stencil Format:
+[2026.04.20-13.13.30:770][108]LogRHI: Error: 0x0
+[2026.04.20-13.13.30:770][108]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.04.20-13.13.30:799][108]LogWindows: Error: appError called: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\RHI\Private\PipelineStateCache.cpp] [Line: 584] 
+Shader compilation failures are Fatal.
+
+
+
+[2026.04.20-13.13.30:815][108]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2026.04.20-13.13.30:816][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.T_Manny_02_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.30:836][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.T_Manny_02_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.31:101][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:102][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:102][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:102][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:102][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:107][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:417][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:423][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:426][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:426][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:427][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:427][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:583][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:588][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:592][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:592][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:592][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:592][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:689][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:689][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:689][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:689][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:689][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:689][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:754][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:754][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:754][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:754][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:761][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:761][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:775][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:778][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:779][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:779][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:779][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:779][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:779][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:779][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:779][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:779][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:780][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:783][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.31:971][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.T_Manny_01_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.32:139][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.T_Manny_02_ASAOPMASK_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.32:575][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.32:575][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.32:575][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.32:575][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.32:577][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.32:582][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.32:603][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.T_Quinn_01_ASAOMASK_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.32:704][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.T_Quinn_01_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.32:895][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.32:895][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.32:895][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.32:895][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.32:904][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.32:904][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.32:928][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.T_Quinn_01ID_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.32:956][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.T_Quinn_01ID_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.33:057][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_N.T_Manny_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.33:543][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.33:543][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.33:543][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.33:547][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.33:547][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.33:556][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.33:628][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.33:953][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.T_Quinn_01ID_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:045][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:125][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:127][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:128][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:128][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:128][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:138][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:147][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:164][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:164][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.T_Quinn_01ID_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.34:169][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:175][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:177][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:177][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:177][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:428][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:429][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:429][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:429][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:429][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:429][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:474][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:474][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:474][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:474][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:476][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:479][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:503][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:503][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:503][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:503][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:503][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.34:503][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:002][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.T_Manny_01_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.35:156][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.T_Quinn_02ID_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.35:450][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.T_Quinn_02_ASAOMASK_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.35:557][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:557][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:559][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:560][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:560][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:560][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:698][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.T_Quinn_02_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.35:841][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:842][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:842][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:842][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:843][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:854][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.35:934][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.T_Quinn_01ID_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.35:941][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.T_Quinn_02ID_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.35:949][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.T_Manny_01_ASAOPMASK_MSK (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.36:096][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:098][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:098][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:098][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:098][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:098][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:455][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:456][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:456][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:456][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:457][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:459][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:660][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:695][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:695][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:695][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:695][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:695][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:718][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:718][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:719][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:719][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:719][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:719][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:733][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:734][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:734][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:734][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:734][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:734][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.36:753][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.T_Quinn_02ID_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.36:933][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.T_Manny_01_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.36:953][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.T_Quinn_02ID_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.37:231][108]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.T_Quinn_02ID_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2026.04.20-13.13.37:338][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:339][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:342][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:342][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:342][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:342][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:462][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:462][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:462][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:463][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:463][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:463][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:481][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:481][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:481][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:482][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:482][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:488][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:522][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:522][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:522][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:522][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:522][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.13.37:523][108]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558/z$/$rpc -> Insufficient Storage (507). "Payload (application/octet-stream): 0 bytes"
+[2026.04.20-13.14.19:978][108]LogRHI: Error: Breadcrumbs 'Parallel'
+ - LightShafts (Occlusion)
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 106
+
+[2026.04.20-13.14.19:978][108]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.04.20-13.14.19:978][108]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [36 Seconds] waiting for h/w. InstanceID=1
+[2026.04.20-13.14.19:978][108]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.04.20-13.14.19:978][108]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [36 Seconds] waiting for h/w. InstanceID=2
+[2026.04.20-13.14.19:978][108]LogThreadingWindows: Error: Runnable thread Foreground Worker #1 crashed.
+[2026.04.20-13.14.21:343][108]LogWindows: Error: === Critical error: ===
+[2026.04.20-13.14.21:343][108]LogWindows: Error: 
+[2026.04.20-13.14.21:343][108]LogWindows: Error: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\RHI\Private\PipelineStateCache.cpp] [Line: 584] 
+[2026.04.20-13.14.21:343][108]LogWindows: Error: Shader compilation failures are Fatal.
+[2026.04.20-13.14.21:343][108]LogWindows: Error: 
+[2026.04.20-13.14.21:343][108]LogWindows: Error: 
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9f0d2bf22 UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9f0d0fca4 UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9f0d0f5ea UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9f0d1ea29 UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9f0cf0160 UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9f0c994f8 UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9bbd143e7 UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9bbd14144 UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9bbd3959e UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9bbd01185 UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9bbf8ec84 UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9bc3f6c38 UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ff9bc3efa4f UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: [Callstack] 0x00007ffa6dc7259d KERNEL32.DLL!UnknownFunction []
+[2026.04.20-13.14.21:343][108]LogWindows: Error: 
+[2026.04.20-13.14.21:343][108]LogWindows: Error: Crash in runnable thread Foreground Worker #1
+[2026.04.20-13.14.21:395][108]LogExit: Executing StaticShutdownAfterError
+[2026.04.20-13.14.22:244][108]LogWindows: FPlatformMisc::RequestExit(1, FRunnableThreadWin::GuardedRun.ExceptionHandler)
+[2026.04.20-13.14.22:244][108]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3, FRunnableThreadWin::GuardedRun.ExceptionHandler)
+[2026.04.20-13.14.22:244][108]LogCore: Engine exit requested (reason: Win RequestExit)

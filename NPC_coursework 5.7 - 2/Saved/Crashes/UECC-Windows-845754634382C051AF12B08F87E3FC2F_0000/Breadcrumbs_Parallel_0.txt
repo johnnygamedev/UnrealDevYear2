@@ -1,0 +1,6 @@
+Breadcrumbs 'Parallel'
+ - LightShafts (Occlusion)
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 106
