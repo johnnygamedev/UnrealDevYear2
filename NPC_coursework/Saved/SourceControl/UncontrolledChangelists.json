@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UnrealDevYear2/NPC_coursework/Content/Interaction/Drawer_BP.uasset",
+				"D:/UnrealDevYear2/NPC_coursework/Content/Content/MainLevel.umap",
+				"D:/UnrealDevYear2/NPC_coursework/Content/Interaction/GameInstance.uasset",
 				"C:/Users/Adam/OneDrive/Documents/GitHub/New folder/UnrealDevYear2/NPC_coursework/Content/Content/EquipableItems/S_ItemData.uasset",
 				"C:/Users/Adam/OneDrive/Documents/GitHub/New folder/UnrealDevYear2/NPC_coursework/Content/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Adam/OneDrive/Documents/GitHub/New folder/UnrealDevYear2/NPC_coursework/Content/Content/EquipableItems/BaseItemBluePrints/BP_EvidenceItem_Base_old.uasset",
